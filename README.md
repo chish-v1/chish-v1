@@ -18,11 +18,12 @@ Data science/ methodology/business intelligence<br/>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu)
 ![VS Code](https://img.shields.io/badge/VS-Code-007ACC?style=plastic&logo=visualstudiocode)
-![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=visualstudiocode)
+![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=microsoftvisio)
          
 - 💻 &#160; ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau)
 ![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=plastic&logo=apachehadoop)
 ![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=plastic&logo=apachespark)
 
@@ -32,11 +33,19 @@ Data science/ methodology/business intelligence<br/>
 
 ## Certifications
 
-- ![IBM](https://img.shields.io/badge/IBM-052FAD?style=plastic&logo=ibm) [Spark - Level 1](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)
+<img src = "https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" />
+
+- [Spark - Level 1](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)
+- [Big Data Foundations - Level 2](https://www.credly.com/badges/1e15822d-13f6-495e-9fe3-9da85361c199/linked_in_profile)
+- [Data Science Foundations - Level 2 (V2)](https://www.credly.com/badges/309e4bdd-35a3-4e49-80fc-f41149448ae4/linked_in_profile)
+- [Hadoop Foundations - Level 1](https://www.credly.com/badges/13b54c8a-905a-4820-a71c-3fd9a4aa9dd6/linked_in_profile)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e9c865a5d7cb43ec92257fc9a13a1dd2)
+- [Applied Data Science with Python - Level 2](https://www.credly.com/badges/7b9b4d6e-372a-42d5-a637-1591b1246c63/linked_in_profile)
 
 
 
-## Git Stats
+
+## GitHub Stats
 <p>
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=winchcodes&show_icons=true&hide_border=true" />
 
