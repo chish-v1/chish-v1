@@ -34,7 +34,4 @@ Data science/ methodology/business intelligence<br/>
 
 ## Certifications
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/cwinfrey)
-
-<p>
-<img width="5%" src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg">[Spark - Level 1](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)</p>
+[<img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"> [Spark - Level 1]](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)
