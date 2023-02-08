@@ -46,6 +46,7 @@ Data science/ methodology/business intelligence<br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 
 </p>-->
+<p>
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=winchcodes&show_icons=true&hide_border=true" />
 
 </p>
