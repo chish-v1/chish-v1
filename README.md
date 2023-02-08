@@ -1,7 +1,6 @@
 # Winfrey Chisvo 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cwinfrey?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTEANHa%2FZTuaoXkT%2F9LQm9Q%3D%3D)
-[![Website](https://img.shields.io/badge/Website-.-blue)](https://www.linkedin.com/in/cwinfrey?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTEANHa%2FZTuaoXkT%2F9LQm9Q%3D%3D)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chisvo.winfrey@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/winchcodes)
 
@@ -17,6 +16,14 @@ Data science/ methodology/business intelligence<br/>
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=winchcodes&show_icons=true&hide_border=true" />
 
+🔧 &#160; ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git)
+          ![GitHub](https://img.shields.io/badge/Git-181717?style=plastic&logo=github)
+          ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu)
+          ![VS Code](https://img.shields.io/badge/VS-Code-007ACC?style=plastic&logo=visualstudiocode)
+          ![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=visualstudiocode)
+         
+
+<!--
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
@@ -30,10 +37,10 @@ Data science/ methodology/business intelligence<br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 
-</p>
+</p>-->
 
 ## Certifications
 
 [<img width="5%" src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg"> Spark - Level 1](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)
 
-![(https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg)][Spark - Level 1](https://github.com/FernandoRoldan93)
+![(https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg)](Spark - Level 1)(https://github.com/FernandoRoldan93)
