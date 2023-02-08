@@ -23,10 +23,14 @@ Data science/ methodology/business intelligence<br/>
           ![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=visualstudiocode)
          
 💻 &#160; ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python)
-        ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter)
-        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
-        ![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=plastic&logo=apachehadoop)
-        ![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=plastic&logo=apachespark)
+          ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter)
+          ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
+          ![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=plastic&logo=apachehadoop)
+          ![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=plastic&logo=apachespark)
+
+🌐 &#160; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5)
+          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3)
+
 
 
 <!--
