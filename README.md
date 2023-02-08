@@ -14,25 +14,20 @@ Data science/ methodology/business intelligence<br/>
 
 ## Tools 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=winchcodes&show_icons=true&hide_border=true" />
-
-- 🔧 &#160; 
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git)
-          ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)
-          ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu)
-          ![VS Code](https://img.shields.io/badge/VS-Code-007ACC?style=plastic&logo=visualstudiocode)
-          ![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=visualstudiocode)
+- 🔧 &#160; ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu)
+![VS Code](https://img.shields.io/badge/VS-Code-007ACC?style=plastic&logo=visualstudiocode)
+![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=visualstudiocode)
          
-- 💻 &#160; 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python)
-          ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter)
-          ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
-          ![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=plastic&logo=apachehadoop)
-          ![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=plastic&logo=apachespark)
+- 💻 &#160; ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
+![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=plastic&logo=apachehadoop)
+![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=plastic&logo=apachespark)
 
-- 🌐 &#160; 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5)
-          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3)
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3)
 
 
 
@@ -51,6 +46,9 @@ Data science/ methodology/business intelligence<br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 
 </p>-->
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=winchcodes&show_icons=true&hide_border=true" />
+
+</p>
 
 ## Certifications
 
