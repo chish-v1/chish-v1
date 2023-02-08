@@ -36,4 +36,4 @@ Data science/ methodology/business intelligence<br/>
 
 [<img width="5%" src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg"> Spark - Level 1](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)
 
-[!(https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg)[Spark - Level 1]](https://github.com/FernandoRoldan93)
+![(https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg)][Spark - Level 1](https://github.com/FernandoRoldan93)
