@@ -1,7 +1,7 @@
-# Winfrey Chisvo 👋
+# Winfrey Chisvo 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/cwinfrey)
-[![Website](https://img.shields.io/badge/Website-.-blue)](linkedin.com/in/cwinfrey)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cwinfrey?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTEANHa%2FZTuaoXkT%2F9LQm9Q%3D%3D)
+[![Website](https://img.shields.io/badge/Website-.-blue)](https://www.linkedin.com/in/cwinfrey?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTEANHa%2FZTuaoXkT%2F9LQm9Q%3D%3D)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chisvo.winfrey@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/winchcodes)
 
