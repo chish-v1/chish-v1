@@ -19,8 +19,8 @@ Data science/ methodology/business intelligence<br/>
 
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <br/>
 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -32,7 +32,7 @@ Data science/ methodology/business intelligence<br/>
 
 </p>
 
-### Certifications
+## Certifications
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/cwinfrey)
 https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg
