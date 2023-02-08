@@ -31,3 +31,8 @@ Data science/ methodology/business intelligence
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 
 </p>
+
+### Certifications
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/cwinfrey)
+https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg
