@@ -22,6 +22,12 @@ Data science/ methodology/business intelligence<br/>
           ![VS Code](https://img.shields.io/badge/VS-Code-007ACC?style=plastic&logo=visualstudiocode)
           ![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=visualstudiocode)
          
+💻 &#160; ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python)
+        ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter)
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
+        ![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=plastic&logo=apachehadoop)
+        ![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=plastic&logo=apachespark)
+
 
 <!--
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
