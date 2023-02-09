@@ -33,7 +33,7 @@ Data science/ methodology/business intelligence<br/>
 
 ## Certifications
 
-![https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg]
+![IBM](https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg)
 - [Applied Data Science with Python - Level 2](https://www.credly.com/badges/7b9b4d6e-372a-42d5-a637-1591b1246c63/linked_in_profile)
 - [Data Science Foundations - Level 2 (V2)](https://www.credly.com/badges/309e4bdd-35a3-4e49-80fc-f41149448ae4/linked_in_profile)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e9c865a5d7cb43ec92257fc9a13a1dd2)
