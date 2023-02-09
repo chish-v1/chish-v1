@@ -41,14 +41,11 @@ Data science/ methodology/business intelligence<br/>
 - [Spark - Level 1](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)
 - [Big Data Foundations - Level 2](https://www.credly.com/badges/1e15822d-13f6-495e-9fe3-9da85361c199/linked_in_profile)
 
-
-
-
-
-
-
+![Simplilearn](./icons/Simplilearn.svg)
+- [Business Intelligence Fundamentals](https://simpli-web.app.link/e/ABNVQE265wb)
 
 ## GitHub Stats
+
 <p>
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=winchcodes&show_icons=true&hide_border=true" />
 
