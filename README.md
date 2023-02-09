@@ -12,7 +12,7 @@ Chemical engineering/process synthesis/analysis/control <br/>
 Sustainable chemical engineering /water treatment/ waste valorisation<br/>
 Data science/ methodology/business intelligence<br/>
 
-## Tools 
+## Skills+Tools 
 
 - 🔧 &#160; ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)
