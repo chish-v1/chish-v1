@@ -17,13 +17,14 @@ Data science/ methodology/business intelligence<br/>
 - 🔧 &#160; ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu)
-![VS Code](https://img.shields.io/badge/VS-Code-007ACC?style=plastic&logo=visualstudiocode)
-![Miscrosoft Visio](https://img.shields.io/badge/Miscrosoft-Visio-3955A3?style=plastic&logo=microsoftvisio)
+![VScode](https://img.shields.io/badge/VScode-007ACC?style=plastic&logo=visualstudiocode)
+![Visio](https://img.shields.io/badge/Visio-3955A3?style=plastic&logo=microsoftvisio)
          
 - 💻 &#160; ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau)
+![Microsoft Excel](https://img.shields.io/badge/MS-Excel-217346?style=plastic&logo=microsoftexcel)
 ![Apache Hadoop](https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=plastic&logo=apachehadoop)
 ![Apache Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=plastic&logo=apachespark)
 
