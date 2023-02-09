@@ -33,14 +33,17 @@ Data science/ methodology/business intelligence<br/>
 
 ## Certifications
 
-<img src = "https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" />
-
+![https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg]
+- [Applied Data Science with Python - Level 2](https://www.credly.com/badges/7b9b4d6e-372a-42d5-a637-1591b1246c63/linked_in_profile)
+- [Data Science Foundations - Level 2 (V2)](https://www.credly.com/badges/309e4bdd-35a3-4e49-80fc-f41149448ae4/linked_in_profile)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e9c865a5d7cb43ec92257fc9a13a1dd2)
+- [Hadoop Foundations - Level 1](https://www.credly.com/badges/13b54c8a-905a-4820-a71c-3fd9a4aa9dd6/linked_in_profile)
 - [Spark - Level 1](https://www.credly.com/badges/741a8fd4-3910-4432-afe9-4dc1abf8c1ff/linked_in_profile)
 - [Big Data Foundations - Level 2](https://www.credly.com/badges/1e15822d-13f6-495e-9fe3-9da85361c199/linked_in_profile)
-- [Data Science Foundations - Level 2 (V2)](https://www.credly.com/badges/309e4bdd-35a3-4e49-80fc-f41149448ae4/linked_in_profile)
-- [Hadoop Foundations - Level 1](https://www.credly.com/badges/13b54c8a-905a-4820-a71c-3fd9a4aa9dd6/linked_in_profile)
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e9c865a5d7cb43ec92257fc9a13a1dd2)
-- [Applied Data Science with Python - Level 2](https://www.credly.com/badges/7b9b4d6e-372a-42d5-a637-1591b1246c63/linked_in_profile)
+
+
+
+
 
 
 
