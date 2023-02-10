@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/winchcodes)
 
 ## About
-University of Pretoria chemical engineering graduate. Versatile, eager to learn and ready to offer solutions to problems.
+University of Pretoria chemical engineering graduate. Versatile, eager to learn and ready to offer innovative solutions to fields listed below.
 
 ## Interests 
 Chemical engineering/process synthesis/analysis/control <br/>
