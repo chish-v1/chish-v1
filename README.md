@@ -53,6 +53,6 @@ Data science/ methodology/business intelligence<br/>
 ## GitHub Stats
 
 <p>
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=winchcodes&show_icons=true&hide_border=true" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=chish-v1&show_icons=true&hide_border=true" />
 
 <p/>
